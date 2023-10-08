@@ -1,0 +1,11 @@
+{
+    "name": "TrophyCounter",
+    "description": "trophy counter",
+    "version": "1.0.0",
+    "author": "CaravaneDeGitan",
+    "entry": "index.js",
+    "requires": [
+        "PogData",
+        "Vigilance"
+    ]
+}
